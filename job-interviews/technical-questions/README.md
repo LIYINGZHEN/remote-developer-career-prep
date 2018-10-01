@@ -2,6 +2,14 @@
 
 [Algorithm Questions](https://github.com/yangshun/tech-interview-handbook/tree/master/algorithms)
 
+### Linked List
+
+- [x] 19. Remove Nth Node From End of List
+- [x] 21. Merge Two Sorted Lists
+- [x] 23. Merge k Sorted Lists
+- [x] 141. Linked List Cycle
+- [x] 206. Reverse Linked List
+
 ### Array
 
 - [x] 1. Two Sum
@@ -41,11 +49,6 @@
 - [x] 252. Meeting Rooms
 - [x] 253. Meeting Rooms II
 
-### Linked List
-
-- [x] 141. Linked List Cycle
-- [x] 206. Reverse Linked List
-
 ### Two Pointers
 
 - [x] 3. Longest Substring Without Repeating Characters
@@ -59,6 +62,13 @@
 - [x] 226. Invert Binary Tree
 - [x] 235. Lowest Common Ancestor of a Binary Search Tree
 
+### Matrix
+
+- [x] 48. Rotate Image
+- [x] 54. Spiral Matrix
+- [x] 74. Search a 2D Matrix
+- [x] 240. Search a 2D Matrix II
+
 ### Math
 
 - [x] 7. Reverse Integer
@@ -67,10 +77,3 @@
 - [x] 69. Sqrt(x)
 - [x] 258. Add Digits
 - [x] 367. Valid Perfect Square
-
-### Matrix
-
-- [x] 48. Rotate Image
-- [x] 54. Spiral Matrix
-- [x] 74. Search a 2D Matrix
-- [x] 240. Search a 2D Matrix II
