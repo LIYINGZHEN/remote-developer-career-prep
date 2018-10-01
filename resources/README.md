@@ -1,5 +1,12 @@
 <h1 align="center">Resources</h1>
 
+## Youtube Channels
+
+- [Tushar Roy - Coding Made Simple](https://www.youtube.com/user/tusharroy2525)
+- [Tech Dummies](https://www.youtube.com/channel/UCn1XnDWhsLS5URXTi5wtFTA)
+- [Success in Tech](https://www.youtube.com/channel/UC-vYrOAmtrx9sBzJAf3x_xw)
+- [Gaurav Sen](https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw)
+
 ## Interview
 
 - [Interview Cake](https://www.interviewcake.com/)
@@ -13,7 +20,7 @@
 ## Program (Free until you find a job)
 
 - [LambdaSchool](https://lambdaschool.com)
-- [x] [Microverse](https://www.microverse.org)
+- [Microverse](https://www.microverse.org)
 
 ## Bootcamp
 
@@ -35,7 +42,7 @@
 ## JavaScript
 
 - [Node University](https://node.university/)
-- [x] [JScomplete](https://jscomplete.com)
+- [JScomplete](https://jscomplete.com)
 
 ## Time Management
 
