@@ -18,8 +18,10 @@
 
 ### Finding a Job
 
-1. [Remote Jobs](https://github.com/LIYINGZHEN/software-engineer-career-prep/blob/master/finding-a-job/remote-jobs)
-2. [Your Dream Job](https://github.com/LIYINGZHEN/software-engineer-career-prep/blob/master/finding-a-job/your-dream-job)
+1. [Job Types](https://github.com/LIYINGZHEN/software-engineer-career-prep/blob/master/finding-a-job/job-types)
+2. [Startups](https://github.com/LIYINGZHEN/software-engineer-career-prep/blob/master/finding-a-job/startups)
+3. [Your Dream Job](https://github.com/LIYINGZHEN/software-engineer-career-prep/blob/master/finding-a-job/your-dream-job)
+4. [Other Jobs](https://github.com/LIYINGZHEN/software-engineer-career-prep/blob/master/finding-a-job/other-jobs)
 
 ### Schedule
 

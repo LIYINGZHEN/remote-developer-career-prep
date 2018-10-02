@@ -1,3 +1,5 @@
+<h1 align="center">Other Jobs</h1>
+
 ## Job Criteria
 
 - [ ] 1. Allows you to learn and grow
@@ -5,16 +7,20 @@
 - [ ] 3. Allows you to work in English
 - [ ] 4. Pays more than $2,000/month. I think you should aim for $2,200-$2,400 at least then.
 
-## [3 Mistakes to Avoid When Looking For A Remote Startup Job](https://docs.google.com/document/d/1MA3WmHQFpIaHd6AbIcJCJybwR64U-9rtpX8TxD6yqRI/edit?usp=sharing)
+### Startups
 
-## Remote Job Websites
+1. [AngelList](https://angel.co/jobs)
+
+### Remote Job Websites
 
 1. https://remoteok.io/
 2. http://weworkremotely.com/
 3. https://www.workingnomads.co/jobs
 4. https://remote.co/remote-jobs/
-5. https://angel.co/jobs
-6. https://stackoverflow.com/jobs
-7. https://www.linkedin.com/jobs/remote-jobs/
-8. https://www.indeed.com/l-Remote-jobs.html
-9. https://angel.co/job-collections/remote
+
+### General Platforms
+
+1. https://stackoverflow.com/jobs
+2. https://www.linkedin.com/jobs/remote-jobs/
+3. https://www.indeed.com/l-Remote-jobs.html
+4. https://angel.co/job-collections/remote
