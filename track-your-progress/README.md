@@ -4,7 +4,13 @@
 
 ### Template
 
-I'm a good communicator and an eager learner. I always ask myself is there a better way to improve products. I like to do side projects in my free time and try new technologies to improve my skills. I firmly believe that I will be your best choice.
+Hi %NAME%,
+
+I'm a full-stack web developer (Node.js + React) with 3+ years of experience. I have experience working remotely and I'm very interested in the %INDUSTRY_NAME% industry. I'd love to chat and learn more about %COMPANY_NAME%.
+
+Cheers,
+
+Max
 
 ###### Reference
 
