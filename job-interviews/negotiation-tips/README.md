@@ -1,3 +1,5 @@
+<h1 align="center">Negotiation Tips</h1>
+
 ### Q: Should I give a number when asked for a salary?
 
 No. When asked for a salary, never give a number

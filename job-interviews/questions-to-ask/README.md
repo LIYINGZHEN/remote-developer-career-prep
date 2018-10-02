@@ -1,4 +1,4 @@
-## Questions to Ask
+<h1 align="center">Questions to Ask</h1>
 
 1. What is the most important/valuable thing you have learnt from working here?
 2. What is unique about working at this company that you have not experienced elsewhere?
