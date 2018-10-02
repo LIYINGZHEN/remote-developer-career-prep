@@ -27,6 +27,10 @@
 
 1. [Daily Schedule](https://github.com/LIYINGZHEN/software-engineer-career-prep/blob/master/daily-schedule)
 
+### Track Your Progress
+
+1. [Track Your Progress](https://github.com/LIYINGZHEN/software-engineer-career-prep/blob/master/track-your-progress)
+
 ## Resources
 
 1. [Resources](https://github.com/LIYINGZHEN/software-engineer-career-prep/blob/master/resources)
