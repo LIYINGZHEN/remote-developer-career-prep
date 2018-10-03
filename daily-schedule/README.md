@@ -1,4 +1,4 @@
-# Daily Schedule
+<h1 align="center">Daily Schedule</h1>
 
 Now that you are ready to start interviewing, you should focus on job applications while you continue improving your interviewing skills. In your free time, you should work on freelance, open source, and side projects to continue getting experience and improving your portfolio.
 
@@ -10,7 +10,7 @@ continue working on the Leetcode challenges and feel free to redo those challeng
 
 ### 9am - 10:00am / Apply to jobs:
 
-You should aim to apply to at least 3-5 jobs every day. If there are good opportunities in your dream list, start there. Otherwise, follow the “brute force” approach and use AngelList and other platforms to apply to other jobs.
+you should aim to apply to at least 3-5 jobs every day. If there are good opportunities in your dream list, start there. Otherwise, follow the “brute force” approach and use AngelList and other platforms to apply to other jobs.
 
 ### 10:00am - 10:30am / Twitter strategy:
 
@@ -18,19 +18,16 @@ You can move this to another time of the day if you want, but remember to dedica
 
 ### 10:30am - 12:30pm / Mock Interviews & Projects:
 
-You should reserve some time for mock interviews and use the rest of the time to work on open source and side projects. Here is a suggested weekly schedule:
+You should reserve some time for mock interviews and use the rest of the time to work on freelance, open source and side projects. Here is a suggested weekly schedule:
 
 - Mondays: Mock Interview Prep
 - Tuesdays: Mock Interviews
-- Wednesday - Friday: Open Source, and Side projects
+- Wednesday - Friday: Freelancing, Open Source, and Side projects
+  12pm - 1pm / Lunch break: Remember to always find time to eat well, sleep well, exercise and socialize. Working hard on your professional side shouldn’t mean that you have to neglect the other important parts of your life.
 
-### 12pm - 1pm / Lunch break:
+### 1pm - 5pm / Freelancing, Open Source, and Side projects:
 
-Remember to always find time to eat well, sleep well, exercise and socialize. Working hard on your professional side shouldn’t mean that you have to neglect the other important parts of your life.
-
-### 1pm - 5pm / Open Source, and Side projects:
-
-You will be using your afternoons to work on open source, and side projects. It’s very important to keep your real-world skills fresh while you keep getting experience and improving your portfolio.
+You will be using your afternoons to work on open source, freelance and side projects. It’s very important to keep your real-world skills fresh while you keep getting experience and improving your portfolio. In order to find these projects, please follow our “Real-world Projects Curriculum”.
 
 ### 5pm - 10pm / Networking (Optional):
 
