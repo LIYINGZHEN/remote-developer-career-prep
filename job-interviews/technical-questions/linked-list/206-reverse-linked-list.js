@@ -15,17 +15,17 @@ const reverseList = head => {
   let prev = null;
 
   // null --> 1 --> 2 --> 3
-  // prev   head  temp
+  // prev   head  next
   //
   // null <-- 1 --> 2 --> 3
-  //        prev   head  temp
+  //        prev   head  next
 
   while (head !== null) {
-    const temp = head.next;
+    const next = head.next;
     head.next = prev;
     // move variable
     prev = head;
-    head = temp;
+    head = next;
   }
 
   return prev;
