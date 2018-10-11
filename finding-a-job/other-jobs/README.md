@@ -1,12 +1,5 @@
 <h1 align="center">Other Jobs</h1>
 
-## Job Criteria
-
-- [ ] 1. Allows you to learn and grow
-- [ ] 2. Allows you to grow remotely (this will open a lot of doors to higher salaries later)
-- [ ] 3. Allows you to work in English
-- [ ] 4. Pays more than $2,000/month. I think you should aim for $2,200-$2,400 at least then.
-
 ### Startups
 
 1. [AngelList](https://angel.co/jobs)
