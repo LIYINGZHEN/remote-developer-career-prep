@@ -11,11 +11,12 @@
 
 - [Interview Cake](https://www.interviewcake.com/)
 - [Big Interview](https://biginterview.com/instant-access)
-- [Remotive Bootcamp](https://learn.remotive.io/)
+- [Remotive](https://learn.remotive.io/)
 
 ## System Desgin
 
 - [Grokking the System Design Interview](https://www.educative.io/collection/5668639101419520/5649050225344512)
+- [Success in Tech](https://www.successintech.com/)
 
 ## Program (Free until you find a job)
 
@@ -35,18 +36,18 @@
 
 - [Kao Man Fen](http://www.kmf.com)
 
-## Mentorship
-
-- [Success in Tech](https://www.successintech.com/)
-
 ## JavaScript
 
 - [Node University](https://node.university/)
 - [JScomplete](https://jscomplete.com)
 
-## Time Management
+## Time Tracking Software
 
 - [Toggl](https://toggl.com/)
+
+## Job Application Tracker
+
+- [Huntr](https://huntr.co/)
 
 ## Others
 
