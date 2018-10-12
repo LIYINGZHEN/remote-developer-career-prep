@@ -49,3 +49,7 @@ Q. What is an Exponential Backoff?
 Q. How to make NodeJs use More CPU Core or Multithreading Instead Single-thread?
 
 Q. How to expose a local development server to the Internet?
+
+Q. What is the different between Status Code 401 and 403.
+
+Q. What is the different between Status Code 400 and 500.
