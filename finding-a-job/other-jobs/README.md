@@ -2,14 +2,14 @@
 
 ### Startups
 
-1. [AngelList](https://angel.co/jobs)
+1. [AngelList](http://bit.ly/2NAxthi)
 
 ### Remote Job Websites
 
 1. https://remoteok.io/
 2. http://weworkremotely.com/
-3. https://www.workingnomads.co/jobs
-4. https://remote.co/remote-jobs/
+3. https://www.workingnomads.co/jobs?category=development&tag=nodejs
+4. https://remote.co/remote-jobs/search/?search_keywords=node
 
 ### General Platforms
 
