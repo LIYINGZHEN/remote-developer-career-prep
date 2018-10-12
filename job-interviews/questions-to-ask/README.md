@@ -4,6 +4,10 @@ Asking good questions during the interview not only makes you look smart, but it
 
 Task #1: Take a look at the questions from [this list](https://github.com/yangshun/tech-interview-handbook/blob/master/non-technical/questions-to-ask.md) and use them as a reference for your future interviews. There is no need to memorize them now.
 
+### Management
+
+1. What qualities do you look out for when hiring for this role?
+
 ### General
 
 1. What is the most important/valuable thing you have learnt from working here?
