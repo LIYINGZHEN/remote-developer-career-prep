@@ -2,7 +2,7 @@
 
 ### Startups
 
-1. [AngelList](http://bit.ly/2NAxthi)
+1. [AngelList](http://bit.ly/2OVrcBz)
 
 ### Remote Job Websites
 
@@ -13,7 +13,7 @@
 
 ### General Platforms
 
-1. https://stackoverflow.com/jobs
-2. https://www.linkedin.com/jobs/remote-jobs/
+1. https://stackoverflow.com/jobs?r=true
+2. [Linkined](https://www.linkedin.com/jobs/search/?distance=25&f_CF=f_WRA&f_TP=1%2C2&keywords=&location=Worldwide&locationId=OTHERS.worldwide)
 3. https://www.indeed.com/l-Remote-jobs.html
 4. https://angel.co/job-collections/remote
