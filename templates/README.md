@@ -58,3 +58,18 @@ Sorry, even though the opportunity is interesting, but I am not interested in mo
 
 Sincerely,
 Max
+
+### Respond to a Job Rejection Email
+
+Hello [Name],
+
+Thanks for letting me know about your decision.
+
+While I’ll admit that I’m disappointed I won’t be able to work as part of the [Company] team, it truly was great to meet you and learn more about the great work that you’re doing.
+
+I’m excited to keep following [Company] as the team [name a current company goal], and I’ll keep an especially close eye on [project/development you discussed in your interview].
+
+Thanks once again for the opportunity, [Name], and I hope our paths cross again in the future. I’m wishing you and [Company] all the best moving forward.
+
+Best wishes,
+[Your Name]
