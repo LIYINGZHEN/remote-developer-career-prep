@@ -50,6 +50,21 @@ I just got an offer, and that company wants me to make a decision soon, but I am
 Sincerely,
 Max
 
+### When a company asks you about the desired salary.
+
+Hi %NAME%,
+
+I enjoyed talking with your co-founder and getting to know the team and the product. As you know, I need to make a decision soon.
+
+I'm considering accepting another offer for %number%, but I also like the product %COMPANY_NAME% is building and the field where you work. If you could match or improve the other offer, I'd seriously consider joining you, but I'd need to know soon.
+
+I really appreciate all your help so far and I'm really excited to continue with the process.
+
+Sincerely,
+Max
+
+### Ask for a higher salary
+
 ### Rejecting an offer
 
 Hi %NAME%,
