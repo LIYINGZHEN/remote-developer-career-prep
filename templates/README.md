@@ -50,26 +50,43 @@ I just got an offer, and that company wants me to make a decision soon, but I am
 Sincerely,
 Max
 
-### When a company asks you about the desired salary.
+### When a company asks you about the desired salary
 
 Hi %NAME%,
 
 I enjoyed talking with your co-founder and getting to know the team and the product. As you know, I need to make a decision soon.
 
-I'm considering accepting another offer for %number%, but I also like the product %COMPANY_NAME% is building and the field where you work. If you could match or improve the other offer, I'd seriously consider joining you, but I'd need to know soon.
+I'm considering accepting another offer for %NUMBER%, but I also like the product %COMPANY_NAME% is building and the field where you work. If you could match or improve the other offer, I'd seriously consider joining you, but I'd need to know soon.
 
 I really appreciate all your help so far and I'm really excited to continue with the process.
 
 Sincerely,
 Max
 
-### Ask for a higher salary
+### Negotiate for a higher salary
+
+Hi %NAME%,
+
+Thank you for offering me the %POSITION%. I'm excited about %COMPANY_NAME% and the contribution I can make here.
+
+While %COMPANY_NAME% is my first choice at this point, I have received another job offer from %ANOTHER_COMPANY% that offers a slightly higher compensation (%NUMBER%). Even though my main priority is to continue learning and improving as a developer as part of an international team, I was wondering if it would be possible for you to get closer to that other offer. I wouldn't ask this under different circumstances, but %REASON%. Even a small increase in the salary would make a big difference.
+
+I would understand if that's not possible though, and I'm willing to be flexible to find a good solution. I'm confident that I can make valuable contributions to the company, and I hope we can come to a mutual agreement.
+
+Please let me know if you want to do a quick call to talk about this. Thanks a lot.
+
+Sincerely,
+Max
 
 ### Rejecting an offer
 
 Hi %NAME%,
 
-Sorry, even though the opportunity is interesting, but I am not interested in moving out of Taiwan right now, and I have opportunities with significantly better salaries. I will let you know if my friends who could be interested in the opportunity.
+Thank you very much for offering me the role of %POSITION%. However, I have decided that this is not the right fit for my career goals at this time.
+
+I sincerely enjoyed our dialog as well as discussions with your team, and I very much appreciate your taking time to share information about the role and vision of %COMPANY_NAME%.
+
+Again, thank you for your time and consideration; best wishes in your continued success.
 
 Sincerely,
 Max
