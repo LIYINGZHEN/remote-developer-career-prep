@@ -26,3 +26,10 @@ Task #1: Take a look at the questions from [this list](https://github.com/yangsh
 ### Product
 
 1. Tell me about the main products of your company.
+2. Tell me about the background that you want to create this app.
+
+### Management
+
+1. What does "success" for the company look like to you?
+2. What is your management philosophy?
+3. What are the strengths and weaknesses of the current team? What is being done to improve upon the weaknesses?
